@@ -1,3 +1,13 @@
-# java_studies
+#javaCodes
 
-First projects to study the Java language
+**Basic Java Codes for study, development in the "Academia Rumos IT"  | January at March 2021**
+
+- **Basics:** Arrays, relations, controllers, gets and setters, constructors...
+- **Making Decisions:** switch, while and do/while, for-each, cath, if and else, break, return...
+- **Core Java APIs:** concatenation, String Methods, Sets and Map...
+- **Lambdas and Functional Interfaces**
+- **Methods and Encapsulation:** generics, primitives, Private and Statics...
+- **Exceptions**
+- **Modules:** java, jar, jdeps and jmod.
+
+@reafreitas1
