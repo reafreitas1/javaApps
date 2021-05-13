@@ -1,6 +1,6 @@
-#javaCodes
+#javaApps
 
-**Basic Java Codes for study, development in the "Academia Rumos IT"  | January at March 2021**
+**Basic Java for study, development in the "Academia Rumos IT"  | January at March 2021**
 
 - **Basics:** Arrays, relations, controllers, gets and setters, constructors...
 - **Making Decisions:** switch, while and do/while, for-each, cath, if and else, break, return...
